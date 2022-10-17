@@ -3,7 +3,7 @@
 // Task1
 let msg = " This statement has empty spaces ";
 console.log(msg.includes('empty'));
-console.log(msg.at(3));
+console.log(msg.at());
 console.log(msg.trim());
 console.log(msg.toLowerCase());
 
