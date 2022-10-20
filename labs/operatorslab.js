@@ -3,9 +3,7 @@ function mathOrder() {
     const total1 = 10 + 32 * 12 / 3;
     const total2 = (10 + 32 )* 12 / 3;
 
-    console.log(`Expected Output
-    total1 ${total1}
-    total2 ${total2}`);
+    console.log('Expected Output\n'+total1+'\n'+total2);
 } // end function
 
 mathOrder();
