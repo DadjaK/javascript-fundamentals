@@ -46,7 +46,7 @@ function forExample(){
     } // end for loop
 } // end function
 
-//forExample();
+forExample();
 
 /* Display the evn numbers from 0 to 20 */
 function evenNumbers(){
