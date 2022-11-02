@@ -16,8 +16,6 @@ function Assign(num1, num2){
 
 }
 
-
-
 /* Task3 */
 function compareExample(value1, value2){
     const isSame = value1 == value2;
