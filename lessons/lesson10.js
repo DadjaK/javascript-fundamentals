@@ -76,7 +76,7 @@ function getDayKeys(){
     }
 } // end function
 
-// getDayKeys();
+ getDayKeys();
 
 /* Entries */
 /* returns an iterator object containing a two-member array for each element */
